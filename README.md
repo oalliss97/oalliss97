@@ -5,4 +5,4 @@ I am a Data Scientist in the Washington D.C. area specializing in Natural Langua
 My languages of choice are Python and R.
 
 
-📫: [LinkedIn](www.linkedin.com/in/oliver-alliss-168063136)
+📫: [LinkedIn](https://www.linkedin.com/in/oliver-alliss-168063136)
