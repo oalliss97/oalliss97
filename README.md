@@ -14,19 +14,6 @@ I am a Data Scientist in the Washington D.C. area with deep expertise in Artific
 
 ---
 
-## Selected Projects
-
-- **[Project Name]**  
-  Description of the project, including core technologies used and its purpose or impact.
-
-- **[Project Name]**  
-  Description of another representative project or research artifact.
-
-- **[Project Name]**  
-  A brief line summarizing an interpretability or adversarial robustness tool, dataset, or experiment.
-
----
-
 ## Contact & Links
 
 - [LinkedIn](https://www.linkedin.com/in/oliver-alliss-168063136)
